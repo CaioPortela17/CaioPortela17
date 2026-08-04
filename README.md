@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Caio Portela
 
-**`Estudante`**
+**`Estudante de Ciência da Computação`**
 
 Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º semestre da Universidade de Fortaleza (UNIFOR). Atualmente, estou fazendo um curso de Desenvolvimento Full Stack, aprimorando meus conhecimentos em programação e desenvolvimento de aplicações web.
 
