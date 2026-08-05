@@ -48,6 +48,13 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
