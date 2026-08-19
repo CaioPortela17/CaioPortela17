@@ -77,7 +77,6 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="GDScript (Godot)" 
@@ -85,7 +84,13 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-          
+   <img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 
 <br/>
