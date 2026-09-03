@@ -87,6 +87,14 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="GDScript (Godot)" 
     title="GDScript" 
     width="30px" 
