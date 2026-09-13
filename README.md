@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Portela
+# 👨🏻‍💻 Caio Portela
 
 **`Estudante de Ciência da Computação`**
 
