@@ -68,14 +68,17 @@ Olá! Sou o Caio, estudante do 3º semestre de Ciência da Computação na UNIFO
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" />
+  <img 
     align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+  />
+</picture>
 <img 
     align="left" 
     alt="Tailwind" 
