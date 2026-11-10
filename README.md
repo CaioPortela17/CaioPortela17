@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Caio Portela
 
-**`Estudante de Ciência da Computação`**
+**`Estudante de Ciência da Computação | Desenvolvedor Web`**
 
-Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º semestre da Universidade de Fortaleza (UNIFOR). Atualmente, estou fazendo um curso de Desenvolvimento Full Stack, aprimorando meus conhecimentos em programação e desenvolvimento de aplicações web.
+Olá! Sou o Caio, estudante do 3º semestre de Ciência da Computação na UNIFOR e da Formação Full Stack Developer na Digital College. Trabalho como desenvolvedor web freelancer, criando sites e landing pages para empresas, e criei o Satisfeito, uma plataforma de pesquisa de satisfação que já está no mercado. Estou em busca de um estágio em TI.
 
 <p align="left">
   <a href="mailto:caioportela.dev@gmail.com" style="text-decoration: none !important;">
@@ -20,12 +20,18 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
 
 ---
 
+### 🚀 Projeto em destaque
+
+**Satisfeito:** plataforma de pesquisa de satisfação para empresas. O cliente responde pelo celular via QR code, e a empresa acompanha NPS, gráficos e um relatório gerado por IA. Next.js, TypeScript, Supabase, Tailwind e Claude API.
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML" 
+    title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -48,18 +54,27 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
@@ -71,19 +86,27 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Supabase" 
+    title="Supabase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -91,22 +114,16 @@ Olá! Me chamo Caio Portela, sou estudante de Ciência da Computação no 3º se
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
-    alt="GDScript (Godot)" 
-    title="GDScript" 
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-   <img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
 
 <br/>
